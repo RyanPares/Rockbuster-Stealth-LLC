@@ -16,9 +16,13 @@ Where are customers with a high lifetime value based?
 Do sales figures vary across different geographic regions?
 # Methods
 PostgreSQL
+
 Data cleansing and filtering
+
 Merging tables
+
 Subqueries and Common Table Expressions (CTEs)
+
 Data visualizations
 
 
