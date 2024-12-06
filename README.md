@@ -6,8 +6,11 @@ Rockbuster Stealth LLC, a global movie rental company that once operated stores 
 The Rockbuster Stealth Management Board has posed several business questions and expects data-driven answers to inform its 2020 company strategy. Here are the main questions they want to address:
 
 Which movies contributed the most or least to revenue gain?
+
 What was the average rental duration for all videos?
+
 In which countries are Rockbuster customers located?
+
 Where are customers with a high lifetime value based?
 
 Do sales figures vary across different geographic regions?
